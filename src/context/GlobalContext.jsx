@@ -1,4 +1,4 @@
-import { createContext} from "react";
+import { createContext } from "react";
 import useTasks from "../hooks/useTasks";
 
 export const GlobalContext = createContext();
